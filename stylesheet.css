@@ -1,0 +1,32 @@
+.navbar {
+    height: 100px;
+    background-color: rgb(171, 185, 171);
+}
+
+.album {
+    background-color: rgba(171, 185, 171, 0.158);
+}
+
+.werkervaring {
+    background-color: rgb(171, 185, 171);
+}
+
+.text {
+    color: rgb(255, 255, 255);
+}
+
+.card-img-overlay {
+    background-color: rgba(104, 104, 104, 0.555);
+    height: 60px;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+footer {
+    height: 200px;
+    background-color: rgb(171, 185, 171);
+}
